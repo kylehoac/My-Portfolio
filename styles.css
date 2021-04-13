@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 auto; 
+}
+nav {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
